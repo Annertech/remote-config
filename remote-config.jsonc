@@ -46,6 +46,9 @@
         },
         {
           "message": "'ddev remote-db' will get you a fresh, sanitized DB dump from the production environment."
+        },
+        {
+          "message": "We try to have a decent automated test coverage in all projects. Run tests with 'ddev backstop', 'ddev behat' and 'ddev cypress'!"
         }
       ]
     }
