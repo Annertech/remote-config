@@ -22,9 +22,6 @@
         {
           "message": "Please upgrade to latest DDEV v1.24 to avoid potential problems with upcoming versions of Docker providers as they support Docker 28. https://github.com/ddev/ddev/releases",
           "versions": "<v1.24.3"
-        },
-        {
-          "message": "You are seeing an overridden and minified list of DDEV tips of the day from Annetech!"
         }
       ],
       "warnings": []
@@ -33,7 +30,22 @@
       "interval": 20,
       "messages": [
         {
-          "message": "Use `ddev branch` to make a git branch with the proper naming convention"
+          "message": "You are seeing an overridden and minified list of DDEV tips of the day from Annetech!"
+        },
+        {
+          "message": "Use `ddev branch` to make a git branch with the proper naming convention."
+        },
+        {
+          "message": "'ddev devmode' can quickly switch between development mode and performance (live) mode."
+        },
+        {
+          "message": "'ddev timeslip' will copy a nicely formatted timeslip comment in your clipboard."
+        },
+        {
+          "message": "Visit https://github.com/Annertech/annertech-ddev to see all provided commands offered by the annertech-ddev add-on."
+        },
+        {
+          "message": "'ddev remote-db' will get you a fresh, sanitized DB dump from the production environment."
         }
       ]
     }
