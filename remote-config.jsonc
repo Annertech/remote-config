@@ -49,6 +49,9 @@
         },
         {
           "message": "We try to have a decent automated test coverage in all projects. Run tests with 'ddev backstop', 'ddev behat' and 'ddev cypress'!"
+        },
+        {
+          "message": "See 'ddev help drupal-updater' for an automatic updater of composer dependencies with atomic commits for each update!"
         }
       ]
     }
